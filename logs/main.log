@@ -1,0 +1,19 @@
+ Volume in drive C is Windows
+ Volume Serial Number is CA66-2772
+
+ Directory of C:\Users\satya\OneDrive\Desktop\Work\Youtube-downloader-PyQt5
+
+02/09/2021  01:35 AM    <DIR>          .
+02/09/2021  01:35 AM    <DIR>          ..
+01/21/2021  12:27 AM             1,928 .gitignore
+02/09/2021  01:26 AM    <DIR>          downloads
+01/21/2021  12:27 AM             3,401 filename.ui
+01/25/2021  02:16 PM    <DIR>          images
+01/21/2021  12:27 AM            35,823 LICENSE
+02/09/2021  01:35 AM    <DIR>          logs
+02/09/2021  01:34 AM             6,897 main.py
+02/09/2021  01:28 AM               239 Muxing.py
+01/21/2021  12:27 AM               290 README.md
+02/09/2021  01:41 AM               220 trail.py
+               7 File(s)         48,798 bytes
+               5 Dir(s)  47,859,793,920 bytes free
